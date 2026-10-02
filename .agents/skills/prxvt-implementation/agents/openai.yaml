@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRXVT Implementation"
+  short_description: "Implement the approved PRXVT Web3 prototype"
+  default_prompt: "Implement the approved PRXVT clickable prototype from the project PRD and design specification."
